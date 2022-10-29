@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/10d4dd8e-178e-44c0-b848-e7189399231a.png)]
+![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/10d4dd8e-178e-44c0-b848-e7189399231a.png)
 <h1 align="center">Hi 👋, I'm Tripti Gupta</h1>
 <h3 align="center">A passionate Designer & Developer from India</h3>
 
