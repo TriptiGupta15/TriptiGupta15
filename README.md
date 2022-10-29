@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tripti Gupta</h1>
 <h3 align="center">A passionate Designer & Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triptigupta15&label=Profile%20views&color=0e75b6&style=flat" alt="triptigupta15" /> </p>
 
